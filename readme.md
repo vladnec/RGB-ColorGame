@@ -1,0 +1,1 @@
+This RGB Color Game was a project I built in The Web Developer Bootcamp on Udemy taught by Colt Steele. The design is responsive, but the focus of this project is JavaScript.
